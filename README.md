@@ -17,17 +17,6 @@ An animated, interactive 3D portfolio built from scratch. This project uses the 
 - 📬 Contact Form – Fully functional form integration with EmailJS
 
   
-**📬 Setup EmailJS**
-- Create an account at EmailJS
-- Add your Service ID, Template ID, and Public Key to your .env file:
-
-VITE_EMAILJS_SERVICE_ID=your_service_id
-VITE_EMAILJS_TEMPLATE_ID=your_template_id
-VITE_EMAILJS_PUBLIC_KEY=your_public_key
-
-- Restart the server, and your contact form will work! ✅
-
-
 **🤝 Contributing**
 - Contributions are welcome!
 - Fork the repo
