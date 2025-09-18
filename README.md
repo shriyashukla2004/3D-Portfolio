@@ -27,5 +27,3 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 | EmailJS           | Form handling and email integration   |
 | Aceternity UI     | Custom UI components                  |
 | Magic UI          | Prebuilt UI elements and design extras|
-
----]
